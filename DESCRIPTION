@@ -6,7 +6,7 @@ Author: Livia Popa, Sithija Manage
 Maintainer: The package maintainer <lp472@cornell.edu>
 Description: Provides functions to run simulations using lasso, ridge, group lasso, 
   thresholded group lasso, elastic net, sparse group lasso, and group bridge methods.
-Imports: MASS, PRROC, glmnet, gglasso, caret, sparsegl, grpreg
+Imports: MASS, PRROC, glmnet, gglasso, caret, sparsegl, grpreg, lifecycle (>= 1.0.3)
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true

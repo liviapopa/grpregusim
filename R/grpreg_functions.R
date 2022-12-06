@@ -182,7 +182,7 @@ testMethods=function(a=0.9, b=0.5, n=500, p=500, ng=10, truegroup = sort(c(rep(1
     plot(PRROC_obj,main="Group Bridge")
   }#GROUPBRIDGE
 
-  return(grplasso.betas)
+  return()
 }#testMethods
 
 
